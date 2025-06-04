@@ -1,0 +1,18 @@
+{
+  "name": "cli-basic",
+  "version": "1.0.0",
+  "main": "./adv-calc.js",
+  "type": "module",
+  "bin": {
+    "adv-calc": "./adv-calc.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "yargs": "^18.0.0"
+  }
+}
